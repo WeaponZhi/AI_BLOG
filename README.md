@@ -9,3 +9,4 @@
 ## 目录
 
 *  [量化交易与人工智能之间到底是咋回事](https://github.com/WeaponZhi/AI_BLOG/issues/1)
+*  [机器学习股票价格预测初级实战](https://github.com/WeaponZhi/AI_BLOG/issues/2)
